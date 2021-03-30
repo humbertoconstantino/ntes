@@ -13,7 +13,7 @@ header .container{
 }
 
 body{
-    background-color: rgb(243, 243, 243)
+    background-color: rgba(225,225,217,255)
 }
 
 header nav a{
@@ -70,4 +70,8 @@ header nav a:hover{
         width: 300px;
     }
 
+}
+
+@media screen and (max-width:736px){
+    
 }
