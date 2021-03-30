@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Biscoito" src=".github/progit.png" width="100%">
+  <img alt="Biscoito" src="progit.png" width="100%">
 </p>
 
 ## :rocket: Technologies
