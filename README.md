@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  SISTE NTES
+  SITE NTES
 </p>
 
 <p align="center">
