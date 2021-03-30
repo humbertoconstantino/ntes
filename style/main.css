@@ -72,6 +72,15 @@ header nav a:hover{
 
 }
 
-@media screen and (max-width:736px){
+@media screen and (max-width:640px){
     
+    header .container nav{
+        display: flex;
+        flex-direction: column;
+    }
+
+    header .container nav a{
+        margin-bottom: 8px;
+    }
+
 }
