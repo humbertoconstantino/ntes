@@ -47,12 +47,21 @@ header nav a:hover{
     justify-content: center;
 }
 
-.reunioes{
-    height: 250px;
+
+
+.carrossel-proximas{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
 }
 
-.next{
-    height: 250px;
+.box-reuniao{
+    height: 100%;
+    width: 100%;
+    display: block;
 }
 
 @media screen and (max-width:850px){
