@@ -71,6 +71,9 @@ header nav a:hover{
     display: block;
 }
 
+header{
+    background-color: white;
+}
 @media screen and (max-width:850px){
     header .container{
     display: flex;
@@ -86,6 +89,14 @@ header nav a:hover{
         width: 300px;
     }
 
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    position:absolute; 
+    bottom:0; 
+    width:100%;
 }
 
 @media screen and (max-width:640px){
